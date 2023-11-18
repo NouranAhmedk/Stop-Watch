@@ -12,8 +12,7 @@
   should use one 7447 decoder for all 7-segments and control the enable/disable for 
   each 7-segement using a NPN BJT transistor connect to one of the MCU pins. Like the 
   below image:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![image](https://github.com/NouranAhmedk/Stop-Watch/assets/105202599/5d66a587-a551-4bc2-8a7d-541693073287)
-)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![image](https://ibb.co/LSqbMnx)]
 
 
 
