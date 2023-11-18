@@ -12,7 +12,7 @@
   should use one **7447 decoder** for all 7-segments and control the enable/disable for 
   each 7-segement using a **NPN BJT transistor** connect to one of the MCU pins. Like the 
   below image:
-<img width="500" alt="main 7-segment" src="https://github.com/NouranAhmedk/Stop-Watch/assets/105202599/921c57b6-cfd6-4c3b-b683-fdea8f508fa9">
+<img width="600" alt="main 7-segment" src="https://github.com/NouranAhmedk/Stop-Watch/assets/105202599/921c57b6-cfd6-4c3b-b683-fdea8f508fa9">
 
 
 > [!NOTE]
@@ -30,12 +30,12 @@ it appears as a normal display**.
 8. Use first *6-pins* in **PORTA** as the enable/disable pins for the six 7-segments.
 9. Stop Watch counting should start once the power is connected to the MCU.
 10. Configure External Interrupt ***INT0 with falling edge***. Connect a *push button* with the 
-***internal pull-up resistor***. If a falling edge detected the Stop Watch time should be
-reset.
+***internal pull-up resistor***. If a **falling edge** detected the Stop Watch time should be
+**reset**.
 11. Configure External Interrupt ***INT1 with raising edge***. Connect a *push button* with the 
-***external pull-down resistor***. If a *raising edge detected the Stop Watch time should be
-paused*.
+***external pull-down resistor***. If a **raising edge** detected the Stop Watch time should be
+**paused**.
 12. Configure External Interrupt ***INT2 with falling edge***. Connect a *push button* with the 
-***internal pull-up resistor***. If a *falling edge detected the Stop Watch time should be
-resumed*.
+***internal pull-up resistor***. If a **falling edge** detected the Stop Watch time should be
+**resumed**.
 ### Check this video: https://youtu.be/emp-musYxII
