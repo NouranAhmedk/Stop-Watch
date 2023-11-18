@@ -13,7 +13,7 @@
   each 7-segement using a NPN BJT transistor connect to one of the MCU pins. Like the 
   below image:
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://ibb.co/LSqbMnx)
+![7-segments]([(https://ibb.co/LSqbMnx))
 
   Note: The above image is just to illustrate the basic idea about the multiplexed
   7-segments. Use The common anode decoder 7447 instead of the IC in the image.
