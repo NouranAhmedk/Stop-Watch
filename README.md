@@ -14,6 +14,7 @@
 > [!NOTE]
 > The above image is just to illustrate the basic idea about the multiplexed 7-segments.
 > Use The common anode decoder 7447 instead of the IC in the image.
+> 
 > <img width="475" alt="7-segment" src="https://github.com/NouranAhmedk/Stop-Watch/assets/105202599/1a2477c3-2b46-425c-bf0d-b595e79c99b5">
 
 
