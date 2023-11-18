@@ -14,7 +14,8 @@
 > [!NOTE]
 > The above image is just to illustrate the basic idea about the multiplexed 7-segments.
 > Use The common anode decoder 7447 instead of the IC in the image.
-> ![7-segments](images/7-segment.png)
+> <img width="475" alt="7-segment" src="https://github.com/NouranAhmedk/Stop-Watch/assets/105202599/1a2477c3-2b46-425c-bf0d-b595e79c99b5">
+
 
 6. We can connect more than one 7-segment display by using the Multiplexing method. In 
 this method, ***at a time one 7-segment display is driven by the Microcontroller and the rest 
