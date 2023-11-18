@@ -8,7 +8,7 @@
 4. Connect the six 7-segments in the project using the *multiplexed technique*. You 
   should use one **7447 decoder** for all 7-segments and control the enable/disable for 
   each 7-segement using a **NPN BJT transistor** connect to one of the MCU pins. Like the 
-  below image:![7-segments](images/main 7-segment.png)
+  below image:![7-segments](images/main7-segment.png)
 
 > [!NOTE]
 > The above image is just to illustrate the basic idea about the multiplexed 7-segments.
