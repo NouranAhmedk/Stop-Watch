@@ -1,6 +1,9 @@
 # Stop Watch
 ## Mini Project 2 In C 
 
+> [!NOTE]
+> The Requirments of the Stop Watch System.
+
 ### Implement the following Stop Watch system with the specifications listed below:
 1. Use ATmega32 Microcontroller with ***frequency 1Mhz***.
 2. Configure ***Timer1*** in ATmega32 with ***CTC mode*** to count the Stop Watch time.
