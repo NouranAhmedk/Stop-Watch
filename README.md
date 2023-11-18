@@ -12,7 +12,7 @@
   should use one 7447 decoder for all 7-segments and control the enable/disable for 
   each 7-segement using a NPN BJT transistor connect to one of the MCU pins. Like the 
   below image:
-![7-segments](7-segment.png)
+![7-segments](images/7-segment.png)
 
   Note: The above image is just to illustrate the basic idea about the multiplexed
   7-segments. Use The common anode decoder 7447 instead of the IC in the image.
